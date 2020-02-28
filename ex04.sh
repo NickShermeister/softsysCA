@@ -19,11 +19,15 @@ if cd "${allNames[$i]}/ExercisesInC/exercises/ex04"; then
     make "${output}"
     if less "test_util.c"; then
       gcc test_util.c
+      chmod 777 testout
+      ./testout
     else
       if less "../test_util.c"; then
-        gcc ../test_util.c
+        gcc ../test_util.c -o testout
+        chmod 777 ../testout
+        ./../testout
       else
-        echo "a thing is up?"
+        echo "test_util.c DNE at this level"
       fi
     fi
     cd ..
