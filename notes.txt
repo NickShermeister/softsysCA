@@ -1,4 +1,169 @@
-hello
-\n\n\n\n
-hi
-hi
+Beginning Grading ex04
+Beginning Grading Nikhil
+Nikhil trout DNE:
+No submission
+Beginning Grading Kristin
+Kristin Makefile Notes:
+seems good
+doesn't compile but seems to test something
+
+Beginning Grading Alex
+Alex trout DNE:
+no submission
+Beginning Grading Sparsh
+Sparsh Makefile Notes:
+trout
+test_file.c instead. Rude.
+good
+Beginning Grading Mahima
+Mahima trout DNE:
+No submission
+Beginning Grading Maalvika
+Maalvika Makefile Notes:
+reasonable
+i was having compilation issue but looked good
+good
+Beginning Grading Dieter
+Dieter Makefile Notes:
+has a clean and a trout!
+looked clean but couldn't compile?
+good
+Beginning Grading Matthew
+Matthew Makefile Notes:
+good
+seemed reasonable; can't seem to compile things using my tests.
+gud
+Beginning Grading Shreya
+Shreya Makefile Notes:
+broken up more
+so apparently main was fine and test_util ran some tests but there was still some issue? fundamentally unclear.
+Looked good
+Beginning Grading Kyle
+Kyle Makefile Notes:
+gud
+beautiful. 11/10 if I could.
+nice
+Beginning Grading Daniel
+Daniel Makefile Notes:
+acceptable
+gcc didn't work. It looks like test_util.c was attempted and is probably fine.
+make** didn't work
+Beginning Grading Sam Daitzman
+Sam Daitzman trout DNE:
+No submission
+Beginning Grading Will
+Will trout DNE:
+no submission
+Beginning Grading Katie
+Katie Makefile Notes:
+looks good
+was able to vim but don't see? prob because required unit a level up.
+good
+Beginning Grading Elias
+Elias Makefile Notes:
+good
+seemed good
+fin
+Beginning Grading Richard:
+My bad--confused names.
+Good overall.
+10/10
+Beginning Grading Gia
+Gia Makefile Notes:
+gud
+seemed good but location issues
+gud
+Beginning Grading Mark
+Mark Makefile Notes:
+gud
+why so manyyyy
+fine
+Beginning Grading Jack Greenberg
+Jack Greenberg Makefile Notes:
+trout
+seemed good
+10/10
+Beginning Grading Spenser
+Spenser Makefile Notes:
+gud
+acceptable
+10/10
+Beginning Grading Yichen
+Yichen Makefile Notes:
+No walls mah dood -1 Wall wasn't clean
+good
+
+Beginning Grading Lucky
+Lucky Makefile Notes:
+didn't wall all
+didn't use -Wall everywhere; -1 for errors
+9/10
+Beginning Grading Shirin
+Shirin Makefile Notes:
+Good!
+seemed good
+
+Beginning Grading Jack Mao
+Jack Mao trout DNE:
+No submission
+Beginning Grading Maia
+Maia Makefile Notes:
+No wall -2
+seemed reasonable
+8/10
+Beginning Grading Casey
+Casey Makefile Notes:
+no wall
+Alright you got lucky I went in there and compiled with -Wall.
+10/10
+Beginning Grading MJ
+MJ Makefile Notes:
+Good!
+seemed good
+10/10
+Beginning Grading HK
+HK Makefile Notes:
+so -Wall wasn't really used correctly here...
+perfect. Bonus points for having the test run correctly soget 10/10
+10/10
+Beginning Grading Peter
+Peter Makefile Notes:
+trout
+DNE
+4/10 because dude there are warnings and you didn't even use Wall... plus no test
+Beginning Grading Colin
+Colin Makefile Notes:
+simple
+perfect
+11/10
+Beginning Grading Julian
+Julian trout DNE:
+Julian extracted trout into the directory -_- 7/10 because compiled with warnings
+Beginning Grading Nathaniel
+Nathaniel Makefile Notes:
+good
+Everything passed but Wall didn't compile cleanly. 8/10
+8/10
+Beginning Grading David
+David Makefile Notes:
+misused -Wall
+looked good.
+7/10 make was all over the place
+Beginning Grading Nina
+Nina Makefile Notes: 
+No Wall.
+Wall wasn't clean at all but test_util looked good
+7/10
+Beginning Grading Khang
+Khang Makefile Notes: 
+succinct
+good
+10/10
+Beginning Grading Gracey
+Gracey trout DNE: 
+No submission
+Beginning Grading Sam Young
+Sam Young Makefile Notes: 
+trout
+perfect
+good
